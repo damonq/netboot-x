@@ -1,10 +1,11 @@
 netboot-x
 =========
 
-netboot - 
+netboot 
 
-*Configured from /tfptboot
+Syslinux 6.01
 
-Uses syslinux 6.01
+Menus use NFS /tftp/images
+
 
 
