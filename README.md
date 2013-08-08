@@ -5,7 +5,7 @@ netboot
 
 Syslinux 6.01
 
-Menus use NFS /tftp/images
+Menus use NFS /tftpboot/images
 
 
 
