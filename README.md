@@ -1,4 +1,8 @@
 netboot-x
 =========
 
-netboot - menus configured from /tftpboot
+netboot - 
+*Configured from /tfptboot
+Uses syslinux 6.01
+
+
