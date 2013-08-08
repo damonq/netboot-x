@@ -3,7 +3,7 @@ netboot-x
 
 
 Syslinux 6.01
--------------
+
 All files shall match the same version
 Note This package does not include files for booting (U)EFI firmware located in efi32 efi64 directories
 
