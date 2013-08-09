@@ -19,12 +19,12 @@ modules:
 	* localboot.c32
 
 required library modules:
-	*ldlinux.c32
-	*libcom32.c32 
-	*libgpl.c32 
-	*liblua.c32 
-	*libmenu.c32 
-	*libutil.c32
+	* ldlinux.c32
+	* libcom32.c32 
+	* libgpl.c32 
+	* liblua.c32 
+	* libmenu.c32 
+	* libutil.c32
 
 Menus use NFS /tftpboot/images
 
