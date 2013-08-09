@@ -12,9 +12,9 @@ memdisk: allows for booting boot floppy images, hard disk images and some ISO im
 
 modules:
 
-	* reboot.c32 	self explanatory		library dependancy: libcom32.c32
-	* poweroff.c32	self explanatory		library dependancy: none
-	* menu.c32	renders simple menu on screen	libutil.c32
+	* reboot.c32 		self explanatory			library dependancy: libcom32.c32
+	* poweroff.c32		self explanatory			library dependancy: none
+	* menu.c32		renders simple menu on screen		library dependancy: libutil.c32
 	* vesamenu.c32
 	* localboot.c32
 
